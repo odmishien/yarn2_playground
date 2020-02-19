@@ -1,0 +1,9 @@
+{
+  "name": "test_workspace",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "express": "^4.17.1"
+  }
+}
